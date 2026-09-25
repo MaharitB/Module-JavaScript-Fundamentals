@@ -5,14 +5,15 @@
 
 // this function should square any number but instead we're going to get an error
 
-// =============> function square(), shouldnt give a value to it , we can only pass
+// =============> function square(), shouldn't give a value to it , we can only pass
 //  an argument when the function is called, with value in it which is called argument.
 
 function square(3) {
     return num * num;
-}
+} 
+console.log(square())
 
-// =============> write the error message here
+// =============> Unexpected number
 
 // =============> explain this error message here
 
