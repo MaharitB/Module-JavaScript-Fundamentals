@@ -23,4 +23,15 @@ console.log(decimalNumber);
 //the parameter of the function convertToPercentage() and the const variable is the same  
 
 // Finally, correct the code to fix the problem
-
+ //  There can be two ways to fix the problem
+//   1. to change const  variable and the name decimalNumber in line 15.
+//      but still need to call the function convertToPercentage() in the consol.log()
+ 
+//  function convertToPercentage(decimalNumber){
+ //   const numeral = 0.5;
+ //    const percentage = `${numeral*100}%`;
+ //    return percentage;
+ //   }
+ //  console.log(convertToPercentage());
+  
+  //
