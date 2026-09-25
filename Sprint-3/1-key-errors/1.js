@@ -1,7 +1,12 @@
 // Predict and explain first...
 
 // Why will an error occur when this program runs?
-// =============> write your prediction here
+// / to calculate the percentage it has used the value from 
+// convertToPercentage() function so there will be error because 
+// the variable name for the parameter and const is the same. and console.log is called 
+// to print decimalNumber which is not known outside the function
+// instead of printing the retun value of the function.
+
 
 // Try playing computer with the example to work out what is going on
 
