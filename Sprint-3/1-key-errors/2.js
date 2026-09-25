@@ -15,10 +15,13 @@ console.log(square())
 
 // =============> Unexpected number
 
-// =============> explain this error message here
+// =============> unexpected number in the function, there should be only parameter there but here
+//      number is assigned instead of the variable name
 
 // Finally, correct the code to fix the problem
 
 // =============> write your new code here
+
+
 
 
