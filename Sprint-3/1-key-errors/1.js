@@ -19,7 +19,8 @@ function convertToPercentage(decimalNumber) {
 
 console.log(decimalNumber);
 
-// =============> write your explanation here
+// the error was syntaxError it is stating decimalNumber has already been declared
+//the parameter of the function convertToPercentage() and the const variable is the same  
 
 // Finally, correct the code to fix the problem
-// =============> write your new code here
+
