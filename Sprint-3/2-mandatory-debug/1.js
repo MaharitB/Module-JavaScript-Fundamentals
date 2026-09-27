@@ -1,5 +1,5 @@
 // Predict and explain first...
-//  =============> write your prediction here
+//  =============> what does return value going to give out?,the expression is written after return.
 
 function sum(a, b) {
   return;
