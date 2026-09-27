@@ -1,7 +1,9 @@
 // Predict and explain first...
 
 // Predict the output of the following code:
-// =============> Write your prediction here
+// =============> I think the num variable can be accesed by the funtion getLastDigit()
+// so it means it is not using the argument that is passed by the function.
+// the output for the three of function calls will be  3.
 
 const num = 103;
 
